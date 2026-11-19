@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "name": "tico studio test",
+  "description": "tico studio test",
+  "packages": [
+    {
+      "id": "super-mario-64",
+      "name": "Super Mario 64",
+      "version": "1.0.0",
+      "description": "super mario 64",
+      "url": "https://dn721607.ca.archive.org/0/items/super-mario-64_n64/Super%20Mario%2064%20%28USA%29.n64",
+      "install": "tico/roms/n64",
+      "filename": "Super Mario 64 (USA).n64",
+      "sha256": "f3b0fc9f565f995368b6fa5aefc8ec1e5194c488948b41f3534dece4abcec2b4",
+      "category": "game",
+      "type": "rom",
+      "featured": false,
+      "extract": true,
+      "extract_to_folder": false,
+      "size": 8388608
+    }
+  ]
+}
